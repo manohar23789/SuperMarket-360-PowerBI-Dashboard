@@ -1,5 +1,3 @@
-<img width="1160" height="647" alt="Super_Market_Executive_Overview" src="https://github.com/user-attachments/assets/2becd9b9-<img width="1152" height="637" alt="Super_Market_Category_Analysis" src="https://github.com/user-attachments/assets/d8ebb858-1883-460b-8a5b-46b2f43cafbc" />
-b6ed-46ac-88ea-8dea14ca7545" />
 # 🛒 SuperMarket 360 — Power BI Dashboard
 
 ## 📊 Project Overview
