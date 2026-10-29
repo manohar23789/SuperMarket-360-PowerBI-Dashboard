@@ -113,6 +113,31 @@ This confirmed that the measure included both stock-status categories specified 
 - Interactive StockStatus filtering
 - Business-focused visual design
 
+## 🖼️ Dashboard Screenshots
+
+### Executive Overview
+
+![SuperMarket 360 Executive Overview](Super_Market_Executive_Overview.png)
+
+### Category Analysis
+
+![SuperMarket 360 Category Analysis](Super_Market_Category_Analysis.png)
+
+### Inventory Analysis
+
+![SuperMarket 360 Inventory Analysis](Super_Market_Inventory_Analysis.png)
+
+## 📁 Repository Contents
+
+| File | Description |
+|---|---|
+| `Super Market Power BI.pbix` | Interactive Power BI report |
+| `SuperMarket_360_MultiBranch_Sample_Dataset.xlsx` | Sample dataset |
+| `Super_Market_Executive_Overview.png` | Executive dashboard screenshot |
+| `Super_Market_Category_Analysis.png` | Category analysis screenshot |
+| `Super_Market_Inventory_Analysis.png` | Inventory analysis screenshot |
+| `README.md` | Project documentation |
+
 ## 💡 Key Learning Outcomes
 
 Through this project, I practiced:
