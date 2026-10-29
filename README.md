@@ -40,12 +40,6 @@ This portfolio project demonstrates how business data can be transformed into in
 - Interactive Dashboard Design
 - Business Intelligence and Performance Analysis
 
-## 💡 Business Questions Answered
-1. What are the overall sales and gross profit?
-2. How does sales performance change month by month?
-3. Which stores generate the highest sales?
-4. Which product categories contribute the most gross profit?
-5. How do results change when different stores, categories, or dates are selected?
 
 ## 🖼️ Dashboard Preview
 <!-- Add the exact screenshot filename below after uploading it. -->
